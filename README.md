@@ -21,9 +21,9 @@
 
 ## Screen Shoot
 
+<img width="712" alt="image" src="https://github.com/user-attachments/assets/e5e8406e-a2a4-4673-b355-bb368c9da510" />
 
-
-
+<img width="712" alt="image" src="https://github.com/user-attachments/assets/6ea4d270-01b0-4ec9-b815-7a9b6e72a6d8" />
 
 
 ## Kebutuhan Sistem / System Requirements
